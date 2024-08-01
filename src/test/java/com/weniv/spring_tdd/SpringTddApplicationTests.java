@@ -8,6 +8,7 @@ class SpringTddApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
